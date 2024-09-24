@@ -46,6 +46,12 @@ grid-auto-rows: 120px;
     transition: all 1s ease-in-out;
     border-color: #222;
     cursor: pointer;
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-transform: capitalize;
+    border: none;
+    letter-spacing: 3px;
+    color: #222;
 }
 .box:hover{
     background-position: center;
